@@ -3,7 +3,7 @@
 import cv2
 
 # Face Detection Model
-face_cap = cv2.CascadeClassifier("C:/Users/Rizvi Khan/AppData/Local/Programs/Python/Python313/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml")
+face_cap = cv2.CascadeClassifier("Module Location")
 
 # Initializing Video Capture
 video_cap = cv2.VideoCapture(0)
