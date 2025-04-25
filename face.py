@@ -3,7 +3,7 @@
 import cv2
 
 # Face Detection Model
-face_cap = cv2.CascadeClassifier("Module Location")
+face_cap = cv2.CascadeClassifier("Location Of Library")
 
 # Initializing Video Capture
 video_cap = cv2.VideoCapture(0)
