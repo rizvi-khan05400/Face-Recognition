@@ -3,7 +3,7 @@
 import cv2
 
 # Face Detection Model
-# Note: ("C:/Users/Rizvi Khan/AppData/Local/Programs/Python/Python313/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml") where your pkage installed there yiu will get this line. In short your pkage location 
+# Note: ("C:/Users/Rizvi Khan/AppData/Local/Programs/Python/Python313/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml") where your pkage installed there you will get this line. In short your pkage location 
 face_cap = cv2.CascadeClassifier("C:/Users/Rizvi Khan/AppData/Local/Programs/Python/Python313/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml")
 
 # Initializing Video Capture
